@@ -1,0 +1,14 @@
+server:
+  port: 8019
+spring:
+  application:
+    name: momo-api-implementation
+
+my:
+  mtn:
+    momo:
+      target-environment: environment
+      ocp-apim-subscription-key: subscription key
+      apiKey: your-api-key
+      api-user-id: uuid v4
+
